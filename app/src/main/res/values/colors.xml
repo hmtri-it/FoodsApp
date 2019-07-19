@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by hmtri-it
+  Copyright (c) 2019. All rights reserved
+  -->
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#016406</color>
+    <color name="colorAccent">#12C71A</color>
+    <color name="colorNull">#00000000</color>
+    <color name="colorIcons">#7C7F81</color>
+    <color name="colorPrimaryText">#1e1e1e</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteDark">#DBDBDB</color>
+    <color name="colorPrimaryLight">#64AA65</color>
+    <color name="colorBackground">#F4F7F7</color>
+</resources>
